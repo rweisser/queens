@@ -1,0 +1,17 @@
+Notes for queens09
+
+Use getArgs
+
+Change funcs to use size instead of maxIdx
+
+Restore counter (use ST or MVar?)
+
+Different outputs:
+
+    display solution(s) as boards
+    output solution(s) as lists
+
+Performance
+
+    filter out bad moves which don't go to lower rows.
+

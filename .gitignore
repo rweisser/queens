@@ -1,0 +1,17 @@
+# .gitignore for queens09
+
+# OS X stuff:
+.DS_Store
+
+# Vim swap files:
+.*.swp
+
+# Compilation by-products:
+*.o
+*.hi
+
+# My backups:
+*.b[0-9][0-9]
+
+# bin file:
+queens
