@@ -144,7 +144,8 @@ not the European or traditional British billion.
 The one million board display limit is hard-coded into the prgram.
 
 On my 17-inch, Late 2011, Macbook Pro, running the compiled version,
-it took ??? to display one million solutions for n = 20.
+it took just over 2 hours and 18 minutes to display one million solutions
+for n = 20.  I was running other stuff on the computer at the time.
 
 Some solutions are not unique if you consider rotation, reflection,
 and combinations of rotation and reflection.  This program displays
